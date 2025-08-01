@@ -113,8 +113,8 @@ const calculatePokemonPower = (pokemon: Pokemon): number => {
 - 🎨 **Modern UI/UX** - Beautiful animations and interactions
 - 📊 **Real-time Data** - Integration with official PokeAPI
 
-[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zh1kaa/pokemon-collection-app)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C896?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zh1kaa/pokemon-arena)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C896?style=for-the-badge&logo=vercel&logoColor=white)](https://pokimon-arena.vercel.app)
 
 ---
 
